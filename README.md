@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi there, I'm Avi! 👋 👨‍💻
 
-<!--
-**Avijit204max/Avijit204max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="./1000041774.jpg" width="100%" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🗣️ About Me
+- 🎓 **CST Student** at Siliguri Government Polytechnic (2nd Year)
+- 🛡️ **Aspiring Ethical Hacker** | Deeply interested in Cybersecurity & Penetration Testing.
+- 🐍 **Python Enthusiast** | Learning to automate security tasks and building tools.
+- 🐧 **Linux Learner** | Exploring the power of the terminal and Bash scripting.
+
+---
+
+### 🛠️ Current Tech Stack & Tools
+- **Languages:** Python, C++, Bash
+- **Operating Systems:** Linux, Windows
+- **Focus Areas:** Network Security, Ethical Hacking Basics, Scripting
+
+---
+
+### 🎯 My Goals
+- [x] Setup GitHub Profile README
+- [ ] Complete the Python for Cybersecurity roadmap
+- [ ] Master Linux command-line navigation
+- [ ] Build a portfolio of custom security scripts
+
+*"The more you sweat in peace, the less you bleed in war."*
+
+---
+
+### 📫 Let's Connect
+- 🔭 I’m currently working on my foundational skills.
+- 🌱 I’m currently learning everything about Linux and Python automation.
+-
