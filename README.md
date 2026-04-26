@@ -10,7 +10,13 @@
   <img src="https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
 </p>
-
+### Languages and Tools:
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/kali/kali-icon.svg" alt="kali" width="40" height="40"/>
+</p>
 ### 🗣️ About Me
 - 🎓 **CST Student** at Siliguri Government Polytechnic (2nd Year)
 - 🛡️ **Aspiring Ethical Hacker** | Deeply interested in Cybersecurity & Penetration Testing.
