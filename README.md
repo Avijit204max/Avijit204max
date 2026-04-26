@@ -1,7 +1,7 @@
 # Hi there, I'm Avi! 👋 👨‍💻
 
 <p align="center">
-  <img src="./1000041774.jpg" width="100%" />
+  <img src="./WhatsApp Image 2026-04-26 at 9.54.16 PM.jpeg" width="100%" />
 </p>
 
 <p align="center">
