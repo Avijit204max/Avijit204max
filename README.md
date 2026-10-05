@@ -19,7 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kali/kali-original.svg" alt="kali" width="40" height="40"/>
 </p>
 ### 🗣️ About Me
-- 🎓 **CST Student** at Siliguri Government Polytechnic (2nd Year)
+- 🎓 **CST Student** at Siliguri Government Polytechnic (3rd Year)
 - 🛡️ **Aspiring Ethical Hacker** | Deeply interested in Cybersecurity & Penetration Testing.
 - 🐍 **Python Enthusiast** | Learning to automate security tasks and building tools.
 - 🐧 **Linux Learner** | Exploring the power of the terminal and Bash scripting.
